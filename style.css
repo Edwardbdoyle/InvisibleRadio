@@ -1,0 +1,14 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  background-color: #333; /* Set the background color as needed */
+}
+
+canvas {
+  border: 2px solid white; /* Optional: Add a border to the canvas */
+  display: block;
+  margin: auto;
+}
